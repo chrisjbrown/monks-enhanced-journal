@@ -13,3 +13,19 @@
 .monks-enhanced-journal-dark .mainbar .navigation {
     background: none;
 }
+
+.monks-enhanced-journal .tab-bar .journal-tab {
+    background-color: none  ;
+}
+
+.monks-enhanced-journal .tab-bar .journal-tab.active {
+    color: #000;
+}
+
+.monks-journal-sheet.sheet .form-group label {
+    color: inherit;
+}
+
+.monks-journal-sheet.sheet .items-list {
+    color: inherit;
+}
