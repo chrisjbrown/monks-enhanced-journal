@@ -54,7 +54,9 @@
 	"styles": [
 		"css/monks-enhanced-journal.css",
 		"css/editor.css", 
-		"css/slide-transition.css" ],
+		"css/slide-transition.css",
+		"css/monks-enhanced-journal-dark.css"
+	],
   "packs": [],
   "url": "https://github.com/ironmonk88/monks-enhanced-journal",
   "download": "https://github.com/ironmonk88/monks-enhanced-journal/archive/1.0.51.zip",

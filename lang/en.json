@@ -4,6 +4,8 @@
   "MonksEnhancedJournal.ForwardTooltip": "",
   "MonksEnhancedJournal.Sidebar": "",
 
+  "MonksEnhancedJournal.dark.name": "Dark",
+  "MonksEnhancedJournal.dark.hint": "Toggle dark mode for enhanced journals",
   "MonksEnhancedJournal.allow-player.name": "Allow Players",
   "MonksEnhancedJournal.allow-player.hint": "Allow Players to use the enhanced journal",
   "MonksEnhancedJournal.rolling-module.name": "Dice Rolling Module",

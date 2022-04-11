@@ -43,6 +43,8 @@ export class EnhancedJournal extends Application {
             classes.push('rippers-ui');
         if (!setting("show-bookmarkbar"))
             classes.push('hide-bookmark');
+        if(setting("dark"))
+            classes.push('monks-enhanced-journal-dark')
         return mergeObject(super.defaultOptions, {
             id: "MonksEnhancedJournal",
             template: "modules/monks-enhanced-journal/templates/main.html",
